@@ -32,7 +32,12 @@
 Контекстная диаграмма:![none](https://github.com/AnnKons/Kursach/blob/master/1.jpg)
 Первая диаграмма IDF0:![none](https://github.com/AnnKons/Kursach/blob/master/2.jpg)
 
-# Лабораторная 5. ПDFD диаграммы курсового проекта
+# Лабораторная 5. DFD диаграммы курсового проекта
 
+Декомпозиция блока A2: ![none](https://github.com/AnnKons/Kursach/blob/master/2аправильный.jpg)
 Декомпозиция блока A22: ![none](https://github.com/AnnKons/Kursach/blob/master/2а1.jpg)
+Декомпозиция блока A23: ![none](https://github.com/AnnKons/Kursach/blob/master/2а2.jpg)
+Декомпозиция блока A3: ![none](https://github.com/AnnKons/Kursach/blob/master/2б.jpg)
+Декомпозиция блока A32: ![none](https://github.com/AnnKons/Kursach/blob/master/2б1.jpg)
+
 
