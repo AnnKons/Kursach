@@ -8,37 +8,36 @@
 
 Процессы верхнего уровня:
 
-А0: Продвижение аккаунтов в социальной сети в Вконтакте
+А0: Продажа товаров / услуг
 
-А1: Выбрать стратегию продвижения
+А1: Принятие решения о продвижени продукта / услуги в интернете
 
-А2: Подготовиться к продвижению
+А2: Подготовка к продвижению продукта / услуги в интернете
 
-А3: Продвигать аккаунт в Вконтакте
+А3: Продвижение продукта / услуги в интернете
 
-А4: Продать товар/услугу
-Определение требований к модели:
+А4: Продажа продукта / услуги
 
 ## 2. Описание задачи на ВКР: 
 
 Моделируемый процесс: "Продажа товаров / услуг"
 
-Точка зрения: Маркетолог
+Точка зрения: Нач. отдела маркетинга
 
 Цели моделирования: "Выявление узких мест системы и поиск процессов для автоматизации продвижения товаров / услуг через социальные сети"
 
 Тема курсового проекта: "Выявление узких мест системы и поиск процессов для автоматизации продвижения товаров / услуг через социальные сети"
 
-Контекстная диаграмма:![none](https://github.com/AnnKons/Kursach/blob/master/1.jpg)
-Первая диаграмма IDF0:![none](https://github.com/AnnKons/Kursach/blob/master/2.jpg)
+Контекстная диаграмма:![none](https://github.com/AnnKons/Kursach/blob/master/01_A0.png)
+Первая диаграмма IDF0:![none](https://github.com/AnnKons/Kursach/blob/master/02_A0.png)
 
 # Лабораторная 5. DFD диаграммы курсового проекта
 
-Декомпозиция блока A2: ![none](https://github.com/AnnKons/Kursach/blob/master/2аправильный.jpg)
-Декомпозиция блока A22: ![none](https://github.com/AnnKons/Kursach/blob/master/2а1.jpg)
-Декомпозиция блока A23: ![none](https://github.com/AnnKons/Kursach/blob/master/2а2.jpg)
-Декомпозиция блока A3: ![none](https://github.com/AnnKons/Kursach/blob/master/2б.jpg)
-Декомпозиция блока A32: ![none](https://github.com/AnnKons/Kursach/blob/master/2б1.jpg)
+Декомпозиция блока A2: ![none](https://github.com/AnnKons/Kursach/blob/master/03_A2.png)
+Декомпозиция блока A22: ![none](https://github.com/AnnKons/Kursach/blob/master/04_A22.png)
+Декомпозиция блока A23: ![none](https://github.com/AnnKons/Kursach/blob/master/05_A23.png)
+Декомпозиция блока A3: ![none](https://github.com/AnnKons/Kursach/blob/master/06_A3.png)
+Декомпозиция блока A32: ![none](https://github.com/AnnKons/Kursach/blob/master/07_A32.png)
 [Ссылка на модель](https://github.com/AnnKons/Kursach/blob/master/1l.rsf)
 
 
