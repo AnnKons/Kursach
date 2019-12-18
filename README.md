@@ -39,5 +39,6 @@
 Декомпозиция блока A23: ![none](https://github.com/AnnKons/Kursach/blob/master/2а2.jpg)
 Декомпозиция блока A3: ![none](https://github.com/AnnKons/Kursach/blob/master/2б.jpg)
 Декомпозиция блока A32: ![none](https://github.com/AnnKons/Kursach/blob/master/2б1.jpg)
+[Ссылка на модель](https://github.com/AnnKons/Kursach/blob/master/1l.rsf)
 
 
