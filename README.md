@@ -42,7 +42,8 @@
 
 # Лабораторная 6. UML диаграммы курсового проекта
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
-![none](https://github.com/AnnKons/Kursach/blob/master/er1.jpg)
+![none](https://github.com/AnnKons/Kursach/blob/master/er2.jpg)
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех ролей
+![none](https://github.com/AnnKons/Kursach/blob/master/er1.jpg)
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех модулей
 
