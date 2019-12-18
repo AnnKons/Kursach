@@ -38,7 +38,7 @@
 Декомпозиция блока A23: ![none](https://github.com/AnnKons/Kursach/blob/master/05_A23.png)
 Декомпозиция блока A3: ![none](https://github.com/AnnKons/Kursach/blob/master/06_A3.png)
 Декомпозиция блока A32: ![none](https://github.com/AnnKons/Kursach/blob/master/07_A32.png)
-[Ссылка на модель](https://github.com/AnnKons/Kursach/blob/master/1l.rsf)
+[Ссылка на модель](https://github.com/AnnKons/Kursach/blob/master/1итог.rsf)
 
 # Лабораторная 6. UML диаграммы курсового проекта
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
