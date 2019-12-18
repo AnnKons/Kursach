@@ -30,3 +30,9 @@
 Тема курсового проекта: "Выявление узких мест системы и поиск процессов для автоматизации продвижения товаров / услуг через социальные сети"
 
 Контекстная диаграмма:![none](https://github.com/AnnKons/Kursach/blob/master/1.jpg)
+Первая диаграмма IDF0:![none](https://github.com/AnnKons/Kursach/blob/master/2.jpg)
+
+# Лабораторная 5. ПDFD диаграммы курсового проекта
+
+Декомпозиция блока A22: ![none](https://github.com/AnnKons/Kursach/blob/master/2а1.jpg)
+
