@@ -52,7 +52,7 @@
 
 # UML диаграммы курсового проекта
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
-![none](https://github.com/AnnKons/Kursach/blob/master/er2correct.png)
+![none](https://github.com/AnnKons/Kursach/blob/master/erpotok.png)
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех ролей
 ![none](https://github.com/AnnKons/Kursach/blob/master/errol1.png)
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех модулей
