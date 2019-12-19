@@ -29,6 +29,7 @@
 Тема курсового проекта: "Выявление узких мест системы и поиск процессов для автоматизации продвижения товаров / услуг через социальные сети"
 
 Контекстная диаграмма:![none](https://github.com/AnnKons/Kursach/blob/master/01_A0.png)
+
 Первая диаграмма IDF0:![none](https://github.com/AnnKons/Kursach/blob/master/02_A0.png)
 
 # Лабораторная 5. DFD диаграммы курсового проекта
@@ -42,8 +43,8 @@
 
 # Лабораторная 6. UML диаграммы курсового проекта
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
-![none](https://github.com/AnnKons/Kursach/blob/master/er2.jpg)
+![none](https://github.com/AnnKons/Kursach/blob/master/er2correct.png)
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех ролей
 ![none](https://github.com/AnnKons/Kursach/blob/master/er1.jpg)
 ## ER-Диаграмма (диаграммы классов без атрибутов) для всех модулей
-
+![none](https://github.com/AnnKons/Kursach/blob/master/er3correct2.png)
